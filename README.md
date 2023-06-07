@@ -1,2 +1,2 @@
 My first readme
-my seconde commit
+README update from github.com
